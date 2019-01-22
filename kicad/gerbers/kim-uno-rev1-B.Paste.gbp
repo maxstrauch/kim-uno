@@ -1,0 +1,25 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.0.1-3-g963ef8bb5)*
+G04 #@! TF.CreationDate,2018-12-12T19:15:58+01:00*
+G04 #@! TF.ProjectId,kim-uno-rev1,6B696D2D756E6F2D726576312E6B6963,1*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Paste,Bot*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.0.1-3-g963ef8bb5)) date Wednesday, 12 December 2018 at 19:15:58*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,3.600000X3.200000*%
+G04 APERTURE END LIST*
+D10*
+G04 #@! TO.C,BT1*
+X158369000Y-131363000D03*
+X158369000Y-102063000D03*
+G04 #@! TD*
+G04 #@! TO.C,BT2*
+X127254000Y-102063000D03*
+X127254000Y-131363000D03*
+G04 #@! TD*
+M02*
