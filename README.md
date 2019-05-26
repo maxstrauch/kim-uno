@@ -10,6 +10,8 @@ Therefore, I designed the KIM Uno as a portable device, which fits in one hand a
 
 Currently this project emulates an [OISC](https://en.wikipedia.org/wiki/One_instruction_set_computer) with just one instruction `subleq`. The idea came to me when I watched [The Ultimate Apollo Guidance Computer Talk](https://www.youtube.com/watch?v=xx7Lfh5SKUQ) and then discovered [this GitHub repo](https://github.com/davidar/subleq).
 
+There is another pretty interesting project, called the same (KIM Uno), which does a real replica of the 6502 KIM Uno. Check it out [here](https://obsolescence.wixsite.com/obsolescence/kim-uno-summary-c1uuh). The creator even sells the kit. So if you are interested in 6502 and like this project, you should take a look there!
+
 # Links
 
 You can find:
